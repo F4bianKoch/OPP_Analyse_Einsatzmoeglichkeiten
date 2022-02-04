@@ -17,9 +17,7 @@ Gliederung:
 
 - Todo Liste
     - Aufgaben ohne Due Date
-        - 
-    - Aufgaebn mit Due Date
-        -
+    - Aufgaben mit Due Date
 
 
 Dependencies:
