@@ -40,6 +40,8 @@ class Schwein(Tier):
     def speak(self):
         print('grunz!')
 
+    def __str__(self):
+        return f'Schwein([Bauernhof_Instanz], {self.tName}, {self.tAge})'
 
 
 bauernhof = Bauernhof('Infofarms')
