@@ -26,3 +26,6 @@ time2 = timeit(code2, number=1000)
 print(time1)
 print(time2)
 print(time1 - time2)
+
+
+# https://www.sciencedirect.com/science/article/abs/pii/S0950584902002057?via%3Dihub
